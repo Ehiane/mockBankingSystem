@@ -1,17 +1,17 @@
-Bank_User_name: julian Levene
-julian Levene's age: 19
-julian Levene's gender: m
+Bank_User_name: Ehiane Oigiagbe
+Ehiane Oigiagbe's age: 20
+Ehiane Oigiagbe's gender: m
 
-julian Levene's number of account(s): 2
+Ehiane Oigiagbe's number of account(s): 2
 -----------Beginning checking section -------------
-julian Levene's checking Balance: 40.59
-julian Levene's checking Routing Number: G10PQWDLRO
-julian Levene's checking Account Number: G6O9XEC89DKVG
+Ehiane Oigiagbe's checking Balance: 1050.0
+Ehiane Oigiagbe's checking Routing Number: TNTPWDRUZY
+Ehiane Oigiagbe's checking Account Number: 4HQM978ZE7KTU
 -----------Ending checking section -------------
 You have no change
 -----------Beginning savings section -------------
-julian Levene's savings Balance: 3500.0
-julian Levene's savings Routing Number: 0543B8MSNO
-julian Levene's savings Account Number: G6O9XEC89DKVG
+Ehiane Oigiagbe's savings Balance: 200.0
+Ehiane Oigiagbe's savings Routing Number: DKSBDFUCB3
+Ehiane Oigiagbe's savings Account Number: 4HQM978ZE7KTU
 -----------Ending savings section -------------
 You have no change
