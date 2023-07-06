@@ -1,17 +1,16 @@
-Bank_User_name: Ehiane Oigiagbe
-Ehiane Oigiagbe's age: 20
-Ehiane Oigiagbe's gender: m
-
-Ehiane Oigiagbe's number of account(s): 2
------------Beginning checking section -------------
-Ehiane Oigiagbe's checking Balance: 1050.0
-Ehiane Oigiagbe's checking Routing Number: TNTPWDRUZY
-Ehiane Oigiagbe's checking Account Number: 4HQM978ZE7KTU
------------Ending checking section -------------
-You have no change
------------Beginning savings section -------------
-Ehiane Oigiagbe's savings Balance: 200.0
-Ehiane Oigiagbe's savings Routing Number: DKSBDFUCB3
-Ehiane Oigiagbe's savings Account Number: 4HQM978ZE7KTU
------------Ending savings section -------------
-You have no change
+Bank_User_name: Eric Cantona
+Eric Cantona's age: 45
+Eric Cantona's gender: m
+Eric Cantona's number of account(s): 2
+-----------Beginning Checking section -------------
+Eric Cantona's Checking Balance: 12000000.0
+Eric Cantona's Checking Routing Number: VW82QZMXQJ
+Eric Cantona's Checking Account Number: 7S4XTZN6CN9ZC
+-----------Ending Checking section -------------
+You have been refunded  $3000000.0
+-----------Beginning Savings section -------------
+Eric Cantona's Savings Balance: 17000000.0
+Eric Cantona's Savings Routing Number: U0VVWXDTT7
+Eric Cantona's Savings Account Number: 8VI0G1V4ONPXE
+-----------Ending Savings section -------------
+You have been refunded  $3000000.0

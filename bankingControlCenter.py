@@ -518,9 +518,20 @@ def loading_animation(text, duration=6):
     # store users information into a file; [--Done]
     # for verification use the User's name and last 4 digits of user's routing number to access account[--Done];
     
+Bank_logo = '''
+
+        ███████╗   ██╗  ██╗    ██████╗     ██████╗  █████╗ ███╗   ██╗██╗  ██╗
+        ██╔════╝   ██║ ██╔╝   ██╔═══██╗    ██╔══██╗██╔══██╗████╗  ██║██║ ██╔╝
+        █████╗     █████╔╝    ██║   ██║    ██████╔╝███████║██╔██╗ ██║█████╔╝ 
+        ██╔══╝     ██╔═██╗    ██║   ██║    ██╔══██╗██╔══██║██║╚██╗██║██╔═██╗ 
+        ███████╗██╗██║  ██╗██╗╚██████╔╝    ██████╔╝██║  ██║██║ ╚████║██║  ██╗
+        ╚══════╝╚═╝╚═╝  ╚═╝╚═╝ ╚═════╝     ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
+                                                                            
+
+'''   
 
 def main():
-    print("******\tWelcome to EKO Automated Bank System\t*****\n");
+    print(Bank_logo);
     loading_animation("Loading Bank Application");
 
     continueProgram = int(input("Select an Option:\n1.Existing user?\n2.New User?\n>>"));
