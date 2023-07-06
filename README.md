@@ -51,6 +51,9 @@ The current version of the banking system provides a solid foundation for accoun
 
 Contributions to the banking system project are welcome. If you have any ideas, bug fixes, or enhancements, feel free to open an issue or submit a pull request. Your contributions will be greatly appreciated.
 
+## Ascii Art
+Ascii art such as the logo wouldn't have been possible without this great resource [ascii art generator by patorjk](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
+
 ## Acknowledgments
 
 This project was a collaboration between [Ehiane Oigiagbe](https://github.com/ehiane) and [Chat-GPT](https://chat.openai.com/). Their combined efforts and expertise resulted in the successful development of this basic banking system.
