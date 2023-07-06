@@ -1,5 +1,13 @@
 # Banking System
 
+## Demo
+  ### Registration
+  ![EKO Bank registration - Made with Clipchamp](https://github.com/Ehiane/mockBankingSystem/assets/79903725/154e1b4d-f320-4f66-8104-87d612524c17)
+  ### Sign-in/ Authorization
+  ![EKO Bank registration 2 - Made with Clipchamp](https://github.com/Ehiane/mockBankingSystem/assets/79903725/37726e42-69f5-44f6-9231-ae98ae9f1b88)
+
+
+
 This project is a basic banking system that allows users to manage and access their accounts. It provides functionality for login, account creation, verification of user information, and distribution of account balances. The system includes loading animations and utilizes the `User` and `Bank` classes for efficient data manipulation.
 
 ## Key Features
