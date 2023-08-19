@@ -25,7 +25,7 @@ To use the banking system, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Ensure you have Python installed (version 3.0 or higher).
-3. Run the `banking_system.py` file in a Python IDE or terminal.
+3. Run the `bankingControlCenter.py` file in a Python IDE or terminal.
 4. Follow the on-screen prompts to either log in as an existing user or create a new user account.
 5. Use the provided options to manage your accounts, deposit/withdraw funds, and view balances.
 
